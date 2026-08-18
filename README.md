@@ -107,7 +107,7 @@ xdg-open index.html    # Linux
 
 **Raman (ramaneon)**
 - 🐙 GitHub: [@ramaneon](https://github.com/ramaneon)
-- 🌐 Projects: [ramaneon.github.io](https://ramaneon.github.io)
+- 🌐 Projects: [ramaneon.github.io]((https://ramaneon.github.io/methodology/))
 - 🛡️ Focus: OSINT • WiFi Security • Bug Bounty • Offline Tooling
 
 ---
