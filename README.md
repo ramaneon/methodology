@@ -8,7 +8,7 @@
 
 [![Live Demo](https://img.shields.io/badge/⚡_Live_App-Open_Checklist-00FF94?style=for-the-badge&logo=github-pages&logoColor=black)](https://ramaneon.github.io/methodology/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramaneon/methodology)
-[![License](https://img.shields.io/badge/License-MIT-7B2FBE?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-Custom_Non--Commercial_%2B_Royalty-7B2FBE?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active_&_Maintained-00FF94?style=for-the-badge)](#)
 
 <br/>
@@ -112,8 +112,11 @@ xdg-open index.html    # Linux
 
 ---
 
-## ⚖️ License & Disclaimer
+## ⚖️ License & Terms
 
-This project is licensed under the [MIT License](LICENSE). 
+This project is licensed under a custom **Non-Commercial with Mandatory Attribution & Commercial Royalty License**. See the full [LICENSE](LICENSE) file for exact legal terms.
+
+- **Non-Commercial / Personal / Educational Use**: Free to use, adapt, and study provided full copyright attribution is preserved.
+- **Commercial / Monetized Product Use**: Any integration into paid products, SaaS offerings, commercial courses, or revenue-generating platforms requires mandatory copyright attribution and prior commercial licensing / commission agreement with **Raman (ramaneon)**.
 
 *Disclaimer: This methodology is intended strictly for authorized security assessments, responsible disclosure bug bounty programs, and educational purposes. Ensure you have explicit authorization before assessing target systems.*
